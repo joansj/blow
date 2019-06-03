@@ -1,0 +1,12 @@
+.*
+!/.gitignore
+*.wav
+
+dat/*/
+res/*/
+
+*.pyc
+\__pycache__/
+
+src/tmp*.*
+

@@ -6,10 +6,16 @@ End-to-end models for raw audio generation are a challenge, specially if they ha
 
 #### Reference
 
-J. Serrà, S. Pascual, & C. Segura (2019). **Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion**. ArXiv ... 
+J. Serrà, S. Pascual, & C. Segura (2019). **Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion**. ArXiv: 1906.00794. https://arxiv.org/abs/1906.00794
 
 ```
-
+@article{Serra19ARXIV,
+author = {Serr{\`{a}}, J. and Pascual, S. and Segura, C.},
+journal = {ArXiv},
+title = {{Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion}},
+volume = {1906.00794},
+year = {2019}
+}
 ```
 
 #### Links
